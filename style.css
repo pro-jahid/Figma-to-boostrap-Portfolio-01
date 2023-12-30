@@ -82,3 +82,15 @@ body{
 .section-four{
     padding-top: 150px;
 }
+.section-four p{
+    width: 80%;
+}
+.hatur{
+    width: 40%;
+}
+.hatur img{
+    padding-left: 30px;
+}
+.section-five{
+    padding-top: 150px;
+}
