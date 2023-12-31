@@ -5,7 +5,7 @@
     padding: 0px;
 }
 body{
-    font-family: inter;!important
+    font-family: inter !important;
 }
 .nav-link{
     margin-left: 20px;
@@ -64,7 +64,7 @@ body{
     padding-top: 25px;
 }
 .headerButton{
-    background-color: #7963F0;!important
+    background-color: #7963F0 !important;
     border-radius: 10px;
 }
 .section-two{
