@@ -64,26 +64,23 @@ body{
     background-color: #7963F0 !important;
     border-radius: 10px;
 }
-.section-two{
-    padding-top:150px ;
+.section-three{
+    padding-top: 80px;
 }
-.section-three h2{
-    padding-top: 100px;
-    padding-bottom: 80px;
+.padding-4{
+    padding-top: 2.5rem!important;
 }
 .cardlogo{
     width: 30px;
     height: 30px;
 
 }
+#caro-button button{
+    position: static !important;
+    width: 50% !important;
+}
 .section-four{
     padding-top: 150px;
-}
-.section-four p{
-    width: 80%;
-}
-.hatur{
-    width: 40%;
 }
 .hatur img{
     padding-left: 30px;
