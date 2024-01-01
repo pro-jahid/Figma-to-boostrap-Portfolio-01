@@ -52,16 +52,13 @@ body{
     background: #FFFFFF;
     box-shadow: 0px 3px 4px rgba(153, 155, 168, 0.15);
     border-radius: 8px;
-    max-width: 945px;
-    height: 80px;
-    position: absolute;
-    margin: 0px auto;
-    bottom: 120px;
-    left: 28%;
-    width: 98%;
+    width: 945px;
+    max-width: 100%;
+    position: relative;
+    top: -55px;
 }
-.withoutp{
-    padding-top: 25px;
+.bg-purple{
+    background-color: #7963F0 !important;
 }
 .headerButton{
     background-color: #7963F0 !important;
@@ -93,4 +90,8 @@ body{
 }
 .section-five{
     padding-top: 150px;
+}
+.footer-section{
+    background-color: #F5F6F7;
+    padding: 70px 0px;
 }
