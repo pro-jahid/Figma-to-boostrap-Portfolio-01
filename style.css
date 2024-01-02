@@ -60,6 +60,7 @@ body{
 }
 .bg-purple{
     background-color: #7963F0 !important;
+    color: #FFFFFF !important;
 }
 .headerButton{
     background-color: #7963F0 !important;
@@ -92,4 +93,15 @@ body{
 .footer-section{
     background-color: #F5F6F7;
     padding: 70px 0px;
+}
+
+
+
+
+
+@media(max-width:767px){
+    .section-one h1{font-size: 30px;}
+    .section-one p{
+        font-size: 10px;
+    }
 }
